@@ -1,0 +1,5 @@
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Invalid platform configuration, Please check the log' ]
+Received kill signal, shutting down gracefully
+Closed out connections
